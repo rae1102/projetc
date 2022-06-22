@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project 1</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    
 
-You can use the [editor on GitHub](https://github.com/rae1102/projetc/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+    
+    <header>
+        <div class="item">
+            <img src="images/coke project 1.jpg"/>
+            <span class="caption">Reyn project 1</span>
+        </div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+        </header>
+    <nav>
 
-### Markdown
+    </nav>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <main>
+        <h1>My site beta/prototype/practice(html, css)</h1>
+        <p>Coca-Cola, or Coke, is a carbonated soft drink manufactured by the Coca-Cola Company. Originally marketed as a temperance drink and intended as a patent medicine, it was invented in the late 19th century by John Stith Pemberton in Atlanta, Georgia.</p>
+        
+    
 
-```markdown
-Syntax highlighted code block
+    
+    </main>
+    
+    
+    <footer>
+        <div class="survey">Do you like coca cola?</div>
+        <div class="yes"><a href="https://www.youtube.com/watch?v=MtKSbYJFxMc">YES</a></div>
+        
+        
+        <div class="no"><a href="https://www.youtube.com/watch?v=WWaLxFIVX1s">NO</a></div>
+    </footer>
 
-# Header 1
-## Header 2
-### Header 3
+    
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rae1102/projetc/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
